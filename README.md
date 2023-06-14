@@ -53,7 +53,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_17 | 06-12 ~ 06-18 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
+| day_01 | 06-14 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <br><br> |
 
 
 <br/>
@@ -113,7 +113,7 @@
  
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| day_01 | 06-14 | Brute Force | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309) <br> 3️⃣ [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) 
+| day_01 | 06-14 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562) 
   
   </details>
 <br/>
@@ -128,8 +128,8 @@
 2. 생성된 원격 저장소에 `Github ID`로 폴더를 생성한다.
 3. 알고리즘 풀이 후 원격 저장소 자신의 폴더에 풀이한 소스 코드를 `push` 한다.
 4. commit할 때 commit 컨벤션을 지킨다.
-5. 마감 시간 전까지 원본 저장소로 `PR`한다.
-6. (option) 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
+5. 마감 시간 전까지 원본 저장소로 `commit`한다.
+6. 스터디 시간 내에 자유롭게 풀이 및 토론한다.(디스코드, 줌 이용)
 
 <br/>
 
@@ -170,14 +170,8 @@
 <br/>
 
 
-
-### 💡 예시
-
-`[week 01] 3문제 제출합니다.`
-
 ---
 
 해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
 
 - [CodeSquad-2023-BE-Study](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study/blob/main/README.md)
-
