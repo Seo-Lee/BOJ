@@ -32,7 +32,7 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/seoeunhyo"><img src="https://avatars.githubusercontent.com/seoeunhyo" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/seoeunhyo"><img src="https://avatars.githubusercontent.com/DDaoLee" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/DDaoLee"><img src="https://avatars.githubusercontent.com/DDaoLee" width="130px;" alt=""></a></td>
 
   </tr>
   <tr>
