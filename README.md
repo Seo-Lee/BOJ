@@ -32,12 +32,12 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/seoeunhyo"><img src="https://avatars.githubusercontent.com/seoeunhyo" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/seoeunhyo"><img src="https://avatars.githubusercontent.com/seoeunhyo" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/seoeunhyo"><img src="https://avatars.githubusercontent.com/DDaoLee" width="130px;" alt=""></a></td>
 
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/seoeunhyo"><b>seoeunhyo</b></a></td>
-    <td align="center"><a href="https://github.com/seoeunhyo"><b>seoeunhyo</b></a></td>
+    <td align="center"><a href="https://github.com/DDaoLee"><b>DDaoLee</b></a></td>
 
   </tr>
   <tr> 
@@ -104,9 +104,9 @@
 
 <br/>
 
-## 🗓 일정표(매주 5 문제)
+## 🗓 일정표(매일 N 문제)
 
-- 5번째 문제는 필수는 아니며 선택에 따라 풀이한다.
+- N번째 문제는 필수는 아니며 선택에 따라 풀이한다.
 <br>
 <details>
   <summary>일정표 열기</summary>
