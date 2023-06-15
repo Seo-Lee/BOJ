@@ -53,7 +53,8 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| day_01 | 06-14 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <br><br> |
+| day_01 | 06-15 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <br><br> |
+| day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 3️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <br><br> |
 
 
 <br/>
@@ -71,7 +72,8 @@
 
 |   주차    |      날짜       | seoeunhyo | leedaho | 
 |:-------:|:-------------:|:-------:|:-------:|
-| week_01 | 06-14 |    ✅    |     ✅     |     
+| week_01 | 06-15 |    ❌    |     ❌     |     
+| week_01 | 06-16 |    ❌    |     ❌     |     
  
 
 <br/>
@@ -113,7 +115,8 @@
  
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| day_01 | 06-14 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562) 
+| day_01 | 06-15 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562) 
+| day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 3️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442)
   
   </details>
 <br/>
