@@ -1,15 +1,11 @@
-N = 9
+tc = int(input())
 
-max = int(input())
-index = 1
-maxIndex = 1
+for star in range(tc,0,-1):
+    for gap in range(tc-star):
+        print(" ",end="")
 
-for _ in range(N-1):
-    index += 1
-    number = int(input())
-    if max < number:
-        max = number
-        maxIndex = index
+    for j in range(star):
+        print("*",end='')
+    print()
 
-print(max)
-print(maxIndex)
+#hello
