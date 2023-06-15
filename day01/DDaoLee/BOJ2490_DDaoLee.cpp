@@ -16,6 +16,7 @@ int main() {
 
         cin >> tmp;
         sum = sum + tmp;
+
         if (!(cnt % 4)) {
             // 아스키 코드를 이용하여 표현
             (sum != 4) ? cout << char(68 - sum) << "\n" : cout << "E\n";
