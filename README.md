@@ -42,7 +42,7 @@
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></td>
 
   </tr> 
 </table>
@@ -51,10 +51,11 @@
 
 ## ✔️ 이번 주 문제
 
-| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
+| 일자 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | day_01 | 06-15 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <br><br> |
-| day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 3️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <br><br> |
+| day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442) <br> 3️⃣ [카드 역배치](https://www.acmicpc.net/problem/10804)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <br><br> |
+| day_03 | 06-17 | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 2️⃣ [별찍기 -9](https://www.acmicpc.net/problem/2446) <br>3️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br> |
 
 
 <br/>
@@ -70,10 +71,11 @@
 
 <br>
 
-|   주차    |      날짜       | seoeunhyo | leedaho | 
+|   일자    |      날짜       | seoeunhyo | leedaho | 
 |:-------:|:-------------:|:-------:|:-------:|
-| week_01 | 06-15 |    ❌    |     ❌     |     
-| week_01 | 06-16 |    ❌    |     ❌     |     
+| DAY_01 | 06-15 |    ❌    |     ❌     |     
+| DAY_02 | 06-16 |    ❌    |     ❌     |     
+| DAY_03 | 06-17 |    ❌    |     ❌     |     
  
 
 <br/>
@@ -106,9 +108,9 @@
 
 <br/>
 
-## 🗓 일정표(매일 N 문제)
+## 🗓 일정표
 
-- N번째 문제는 필수는 아니며 선택에 따라 풀이한다.
+- 매일 지정된 문제들을 풀이한다.
 <br>
 <details>
   <summary>일정표 열기</summary>
@@ -116,7 +118,8 @@
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | day_01 | 06-15 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562) 
-| day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 3️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442)
+| day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442) <br> 3️⃣ [카드 역배치](https://www.acmicpc.net/problem/10804)
+| day_03 | 06-17 | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 2️⃣ [별찍기 -9](https://www.acmicpc.net/problem/2446) <br>3️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
   
   </details>
 <br/>
