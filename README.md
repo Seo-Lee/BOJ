@@ -21,6 +21,7 @@
     <td>언어</td>
     <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
     </td>
   </tr>
 </table>
@@ -73,7 +74,7 @@
 
 |   일자    |      날짜       | seoeunhyo | leedaho | 
 |:-------:|:-------------:|:-------:|:-------:|
-| DAY_01 | 06-15 |    ❌    |     ❌     |     
+| DAY_01 | 06-15 |    ✅    |     ✅     |     
 | DAY_02 | 06-16 |    ❌    |     ❌     |     
 | DAY_03 | 06-17 |    ❌    |     ❌     |     
  
