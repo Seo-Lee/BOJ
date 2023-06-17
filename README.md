@@ -57,6 +57,8 @@
 | day_01 | 06-15 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <br><br> |
 | day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442) <br> 3️⃣ [카드 역배치](https://www.acmicpc.net/problem/10804)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <br><br> |
 | day_03 | 06-17 | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 2️⃣ [별찍기 -9](https://www.acmicpc.net/problem/2446) <br>3️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br> |
+| day_04 | 06-18 | 배열 | <p align=left> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577) <br> 2️⃣ [Strfry](https://www.acmicpc.net/problem/11328) <br>3️⃣ [방 번호](https://www.acmicpc.net/problem/1475)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <br><br> |
+| day_05 | 06-19 | 배열 | <p align=left> 1️⃣ [방 배정](https://www.acmicpc.net/problem/13300) <br> 2️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919) <br>3️⃣ [두 수의 합](https://www.acmicpc.net/problem/2309)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <br><br> |
 
 
 <br/>
@@ -75,8 +77,10 @@
 |   일자    |      날짜       | seoeunhyo | leedaho | 
 |:-------:|:-------------:|:-------:|:-------:|
 | DAY_01 | 06-15 |    ✅    |     ✅     |     
-| DAY_02 | 06-16 |    ❌    |     ❌     |     
-| DAY_03 | 06-17 |    ❌    |     ❌     |     
+| DAY_02 | 06-16 |    ✅    |     ✅     |     
+| DAY_03 | 06-17 |    ❌    |     ❌     |    
+| DAY_04 | 06-18 |    ❌    |     ❌     |   
+| DAY_05 | 06-19 |    ❌    |     ❌     |    
  
 
 <br/>
@@ -104,8 +108,7 @@
 
 ### 문제 풀이
 
-- 일마다 N문제를 풀이한다.
-- N문제는 난이도 높은 문제로 선정하며, 필수는 아니다.
+- 일마다 지정된 문제를 풀이한다.
 
 <br/>
 
@@ -121,6 +124,8 @@
 | day_01 | 06-15 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562) 
 | day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442) <br> 3️⃣ [카드 역배치](https://www.acmicpc.net/problem/10804)
 | day_03 | 06-17 | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 2️⃣ [별찍기 -9](https://www.acmicpc.net/problem/2446) <br>3️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+| day_04 | 06-18 | 배열 | <p align=left> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577) <br> 2️⃣ [Strfry](https://www.acmicpc.net/problem/11328) <br>3️⃣ [방 번호](https://www.acmicpc.net/problem/1475)  </p> 
+| day_05 | 06-19 | 배열 | <p align=left> 1️⃣ [방 배정](https://www.acmicpc.net/problem/13300) <br> 2️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919) <br>3️⃣ [두 수의 합](https://www.acmicpc.net/problem/2309)  </p> 
   
   </details>
 <br/>
