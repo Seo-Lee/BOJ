@@ -59,6 +59,8 @@
 | day_03 | 06-19 | 손풀기 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 2️⃣ [별찍기 -9](https://www.acmicpc.net/problem/2446) <br>3️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br> |
 | day_04 | 06-20 | 배열 | <p align=left> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577)  <br> 2️⃣ [방 번호](https://www.acmicpc.net/problem/1475) <br>3️⃣ [소인수 분해](https://www.acmicpc.net/problem/11653)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 3번은 "수학" 유형 문제입니다. <br> + 달팽이는 DDaoLee가 밀어버렸습니다. |
 | day_05 | 06-21 | 배열 | <p align=left> 1️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919)  <br> 2️⃣ [두 수의 합](https://www.acmicpc.net/problem/3273) <br>3️⃣ [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |  3번은 "수학" 유형 문제입니다. |
+| day_06 | 06-22/23 | 연결 리스트 | <p align=left> 1️⃣ [에디터](https://www.acmicpc.net/problem/1406)  <br> 2️⃣ [키로거](https://www.acmicpc.net/problem/5397)<br>3️⃣ [요세푸스 문제](https://www.acmicpc.net/problem/1158)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 난이도가 좀 있어 기한을 2일로 설정하였습니다. |
+
 
 
 <br/>
@@ -119,13 +121,14 @@
 <details>
   <summary>일정표 열기</summary>
  
-| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| 일 | 날짜 | 문제 유형 | 문제 |
+|:---:|:---:|:---:|:---:|
 | day_01 | 06-15 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562) 
 | day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442) <br> 3️⃣ [카드 역배치](https://www.acmicpc.net/problem/10804)
 | day_03 | 06-19 | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 2️⃣ [별찍기 -9](https://www.acmicpc.net/problem/2446) <br>3️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 | day_04 | 06-20 | 배열 | <p align=left> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577)  <br> 2️⃣ [방 번호](https://www.acmicpc.net/problem/1475) <br>3️⃣ [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)  </p>
 | day_05 | 06-21 | 배열 | <p align=left> 1️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919)  <br> 2️⃣ [두 수의 합](https://www.acmicpc.net/problem/2309) <br>3️⃣ [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)  </p> 
+| day_06 | 06-22/23 | 연결 리스트 | <p align=left> 1️⃣ [에디터](https://www.acmicpc.net/problem/1406)  <br> 2️⃣ [키로거](https://www.acmicpc.net/problem/5397)<br>3️⃣ [요세푸스 문제](https://www.acmicpc.net/problem/1158)  </p> 
   
   </details>
 <br/>
