@@ -138,21 +138,21 @@
 <details>
   <summary>일정표 열기</summary>
  
-| 일 | 날짜 | 문제 유형 | 문제 |
-|:---:|:---:|:---:|:---:|
-| day_01 | 06-15 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562) 
-| day_02 | 06-16 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442) <br> 3️⃣ [카드 역배치](https://www.acmicpc.net/problem/10804)
-| day_03 | 06-19 | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 2️⃣ [별찍기 -9](https://www.acmicpc.net/problem/2446) <br>3️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
-| day_04 | 06-20 | 자료구조<br>[배열] | <p align=left> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577)  <br> 2️⃣ [방 번호](https://www.acmicpc.net/problem/1475) <br>3️⃣ [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)  </p>
-| day_05 | 06-21 | 자료구조<br>[배열] | <p align=left> 1️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919)  <br> 2️⃣ [두 수의 합](https://www.acmicpc.net/problem/3273) <br>3️⃣ [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> </p>
-| day_06 | 06-23 | 자료구조<br>[연결 리스트] | <p align=left> 1️⃣ [에디터](https://www.acmicpc.net/problem/1406)  <br> 2️⃣ [키로거](https://www.acmicpc.net/problem/5397)<br>3️⃣ [요세푸스 문제](https://www.acmicpc.net/problem/1158)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> </p>
-| day_07 | 06-25 | 자료구조<br>[스택] | <p align=left> 1️⃣ [스택](https://www.acmicpc.net/problem/10828)  <br> 2️⃣ [좋은 단어](https://www.acmicpc.net/problem/3986) <br> 3️⃣ [괄호](https://www.acmicpc.net/problem/5397) </p> 
-| day_08 | 06-26 | 자료구조<br>[스택] | <p align=left> 1️⃣ [스택 수열](https://www.acmicpc.net/problem/1874)  <br> 2️⃣ [쇠막대기](https://www.acmicpc.net/problem/10799) </p> |
-| day_09 | 06-27 | 자료구조<br>[큐] | <p align=left> 1️⃣ [큐](https://www.acmicpc.net/problem/10845)  <br> 2️⃣ [카드2](https://www.acmicpc.net/problem/2164) </p> 
-| day_10 | 06-28 | 자료구조<br>[덱] | <p align=left> 1️⃣ [덱](https://www.acmicpc.net/problem/10866)  <br> 2️⃣ [회전하는 큐](https://www.acmicpc.net/problem/1021)</p>
-| day_11 | 06-29 | 자료구조<br>[해시] | <p align=left> 1️⃣ [회사에 있는 사람](https://www.acmicpc.net/problem/7785)  <br> 2️⃣ [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br> 3️⃣ [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) </p> 
-| day_12 | 06-30 | 자료구조<br>[해시] | <p align=left> 1️⃣ [패션왕 신해빈](https://www.acmicpc.net/problem/9375)  <br> 2️⃣ [수강신청](https://www.acmicpc.net/problem/13414) </p> 
-| day_13 | 07-01 | 자료구조<br>[고난이도] |<p align=left> 1️⃣[탑 보기](https://www.acmicpc.net/problem/22866)<br> 2️⃣ [뱀](https://www.acmicpc.net/problem/3190) <br> 3️⃣ [부품 대여장](https://www.acmicpc.net/problem/21942) </p> 
+| 일 | 문제 유형 | 문제 |
+|:---:|:---:|:---:|
+| day_01 | 구현 | <p align=left> 1️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 2️⃣ [별찍기 -4](https://www.acmicpc.net/problem/2441) <br> 3️⃣ [최댓값](https://www.acmicpc.net/problem/2562) 
+| day_02 | 구현 | <p align=left> 1️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 2️⃣ [별찍기 -5](https://www.acmicpc.net/problem/2442) <br> 3️⃣ [카드 역배치](https://www.acmicpc.net/problem/10804)
+| day_03 | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br> 2️⃣ [별찍기 -9](https://www.acmicpc.net/problem/2446) <br>3️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+| day_04 | 자료구조<br>[배열] | <p align=left> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577)  <br> 2️⃣ [방 번호](https://www.acmicpc.net/problem/1475) <br>3️⃣ [소인수 분해](https://www.acmicpc.net/problem/11653)  </p>
+| day_05 | 자료구조<br>[배열] | <p align=left> 1️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919)  <br> 2️⃣ [두 수의 합](https://www.acmicpc.net/problem/3273) <br>3️⃣ [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> </p>
+| day_06 | 자료구조<br>[연결 리스트] | <p align=left> 1️⃣ [에디터](https://www.acmicpc.net/problem/1406)  <br> 2️⃣ [키로거](https://www.acmicpc.net/problem/5397)<br>3️⃣ [요세푸스 문제](https://www.acmicpc.net/problem/1158)  </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> </p>
+| day_07 | 자료구조<br>[스택] | <p align=left> 1️⃣ [스택](https://www.acmicpc.net/problem/10828)  <br> 2️⃣ [좋은 단어](https://www.acmicpc.net/problem/3986) <br> 3️⃣ [괄호](https://www.acmicpc.net/problem/5397) </p> 
+| day_08 | 자료구조<br>[스택] | <p align=left> 1️⃣ [스택 수열](https://www.acmicpc.net/problem/1874)  <br> 2️⃣ [쇠막대기](https://www.acmicpc.net/problem/10799) </p> |
+| day_09 | 자료구조<br>[큐] | <p align=left> 1️⃣ [큐](https://www.acmicpc.net/problem/10845)  <br> 2️⃣ [카드2](https://www.acmicpc.net/problem/2164) </p> 
+| day_10 | 자료구조<br>[덱] | <p align=left> 1️⃣ [덱](https://www.acmicpc.net/problem/10866)  <br> 2️⃣ [회전하는 큐](https://www.acmicpc.net/problem/1021)</p>
+| day_11 | 자료구조<br>[해시] | <p align=left> 1️⃣ [회사에 있는 사람](https://www.acmicpc.net/problem/7785)  <br> 2️⃣ [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br> 3️⃣ [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) </p> 
+| day_12 | 자료구조<br>[해시] | <p align=left> 1️⃣ [패션왕 신해빈](https://www.acmicpc.net/problem/9375)  <br> 2️⃣ [수강신청](https://www.acmicpc.net/problem/13414) </p> 
+| day_13 | 자료구조<br>[고난이도] |<p align=left> 1️⃣[탑 보기](https://www.acmicpc.net/problem/22866)<br> 2️⃣ [뱀](https://www.acmicpc.net/problem/3190) <br> 3️⃣ [부품 대여장](https://www.acmicpc.net/problem/21942) </p> 
 
   </details>
 <br/>
