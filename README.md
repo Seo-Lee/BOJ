@@ -46,6 +46,10 @@
     <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></td>
 
   </tr> 
+    <tr>
+    <td align="center"><a href="https://dataeun.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-F97467?style=for-the-badge&logo=Tistory&logoColor=white"></td>
+    <td align="center"><a href="https://ddaolee.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-F97467?style=for-the-badge&logo=Tistory&logoColor=white"></td>
+  </tr>
 </table>
 
 <br/>
